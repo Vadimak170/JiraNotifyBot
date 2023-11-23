@@ -1,7 +1,7 @@
-#Description
+# Description
 Скрипт помогает получать уведомления о задачах, назначенных на вас.
 
-##Dependencies:
+## Dependencies:
 ```bash
 telebot
 jira
